@@ -1,0 +1,9 @@
+# Ignore vendor directory
+vendor/
+
+# Ignore binary
+main
+
+# Ignore env files
+.env
+.env.local

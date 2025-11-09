@@ -1,0 +1,35 @@
+# Environment variables
+.env
+.env.local
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build outputs
+.next/
+out/
+dist/
+build/
+
+# Database
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Docker
+docker-compose.override.yml
